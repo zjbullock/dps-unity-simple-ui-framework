@@ -1,6 +1,6 @@
 {
   "name": "com.dynamicproductivitystudio.simple-ui-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "DPS Simple UI Framework",
   "unity": "6000.0",
   "description": "A helpful UI component library that can integrate with Unity Selectables to set functionality on Button Presses with the New Unity Input System, or On Click.",
