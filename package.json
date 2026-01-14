@@ -17,6 +17,7 @@
   "dependencies": {
     "com.unity.ugui": "2.0.0",
     "com.unity.inputsystem": "1.14.1",
-    "com.dynamicproductivitystudio.common": "1.0.0"
+    "com.dynamicproductivitystudio.common": ">=1.0.0",
+    "com.dynamicproductivitystudio.simple-player-control-framework": ">=1.0.0"
   }
 }
