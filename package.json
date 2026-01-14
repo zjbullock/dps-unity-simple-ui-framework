@@ -1,0 +1,21 @@
+{
+  "name": "com.dynamicproductivitystudio.simple-ui-framework",
+  "version": "1.0.0",
+  "displayName": "DPS Simple UI Framework",
+  "unity": "6000.0",
+  "description": "A helpful UI component library that can integrate with Unity Selectables to set functionality on Button Presses with the New Unity Input System, or On Click.",
+  "author": {
+    "name": "Zikomo Bullock",
+    "email": "zjbulllock@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "tools",
+    "framework"
+  ],
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.inputsystem": "1.14.1"
+  }
+}

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 650f14a295593cc4fbb2005b4d232d28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eventSystem: {instanceID: 0}
+  - firstGameObject: {instanceID: 0}
+  - canvasBlocker: {instanceID: 0}
+  - canvasGroup: {instanceID: 0}
+  - mainMenuController: {instanceID: 0}
+  - textColor: {fileID: 11400000, guid: 7000865f44726ff40a0057a6583d0235, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
