@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using DPS.SimplePlayerControlsFrameWork;
 using System;
+using DPS.Common;
 
 namespace DPS
 {
